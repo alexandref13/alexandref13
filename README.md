@@ -1,6 +1,6 @@
 <h1 align = "justify"> Oi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-> Estudante de Engenharia de computação, desenvolvedor frontEnd, mobile e web.
+> Estudante de Engenharia de computação, desenvolvedor frontend, mobile e web.
 <p align="left"><img src="https://komarev.com/ghpvc/?username=alexandref13" alt="alexandref13" /></p>
 
 ## 🙋🏽‍♂️ Sobre mim

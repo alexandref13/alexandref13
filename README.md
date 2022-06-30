@@ -5,7 +5,7 @@
 
 ## 🙋🏽‍♂️ Sobre mim
 
-Oi, meu nome é Alexandre Fernandes, tenho 22 anos e estou estudando Engenharia de computação no CESUPA - Centro Universitário do Pará. Sou um desenvolvedor web e mobile, especializado em mobile hoje.
+Oi, meu nome é Alexandre Fernandes, tenho 22 anos e estou estudando Engenharia de computação no CESUPA - Centro Universitário do Pará. Sou um desenvolvedor web e mobile, especializado em mobile, hoje.
 
 <!-- ## 🏆👨🏽‍💻 My skills -->
 

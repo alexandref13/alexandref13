@@ -1,17 +1,18 @@
 <h1 align = "justify"> Oi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-> Estudante de Engenharia de computação, desenvolvedor frontend, mobile e web.
+> Estudante de Engenharia de computação, desenvolvedor mobile senior.
 <p align="left"><img src="https://komarev.com/ghpvc/?username=alexandref13" alt="alexandref13" /></p>
 
 ## 🙋🏽‍♂️ Sobre mim
 
-Oi, meu nome é Alexandre Fernandes, tenho 22 anos e estou estudando Engenharia de computação no CESUPA - Centro Universitário do Pará. Sou um desenvolvedor web e mobile, especializado em mobile.
+Oi, meu nome é Alexandre Fernandes, tenho 23 anos e estou estudando Engenharia de computação no CESUPA - Centro Universitário do Pará. Sou um desenvolvedor Mobile Senior, com conhecimentos sólidos em web e conhecimentos básicos em backend
 
 <!-- ## 🏆👨🏽‍💻 My skills -->
 
 ## 🚀💻 Linguagens
 
 - Flutter
+- React Native
 - React.js
 - Next.js
 - HTML
